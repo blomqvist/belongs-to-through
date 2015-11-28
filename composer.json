@@ -1,5 +1,5 @@
 {
-  "name": "znck/belongs-to-through",
+  "name": "blomqvist/belongs-to-through",
   "description": "Adds belongsToThrough relation to laravel models",
   "keywords": [
     "laravel",
