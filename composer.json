@@ -17,7 +17,7 @@
     "orchestra/testbench": "~3.0"
   },
   "license": "MIT",
-  "homepage": "https://github.com/znck/belongs-to-through",
+  "homepage": "https://github.com/blomqvist/belongs-to-through",
   "authors": [
     {
       "name": "Rahul Kadyan",
@@ -26,7 +26,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Znck\\Eloquent\\": "src/"
+      "Blomqvist\\Eloquent\\": "src/"
     }
   },
   "minimum-stability": "stable"
